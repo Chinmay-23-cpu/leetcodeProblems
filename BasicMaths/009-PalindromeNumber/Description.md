@@ -22,3 +22,7 @@ Output: 21
 ## Constraints:
 
     -231 <= x <= 231 - 1
+
+## FollowUp
+
+    Solve Palindrome Number without reversing the entire number.
